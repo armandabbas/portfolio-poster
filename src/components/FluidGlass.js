@@ -372,14 +372,14 @@ function Images() {
 
   // Placeholder images - du kannst diese später durch deine eigenen ersetzen
   const imageConfig = [
-    { url: "/assets/images/project1.jpg", position: [-width * 0.32, -height * 0.1, 0.8], desiredWidth: width * 0.32 },
-    { url: "/assets/images/project2.jpg", position: [width * 0.38, -height * 0.25, -0.2], desiredWidth: width * 0.36 },
-    { url: "/assets/images/project3.jpg", position: [-width * 0.18, -height * 0.48, 1.2], desiredWidth: width * 0.4 },
-    { url: "/assets/images/project4.jpg", position: [width * 0.42, -height * 0.72, -1.1], desiredWidth: width * 0.3 },
-    { url: "/assets/images/project5.jpg", position: [-width * 0.4, -height * 0.95, 0.5], desiredWidth: width * 0.34 },
-    { url: "/assets/images/project6.jpg", position: [width * 0.22, -height * 1.22, -0.8], desiredWidth: width * 0.38 },
-    { url: "/assets/images/project7.jpg", position: [-width * 0.35, -height * 1.52, 0.3], desiredWidth: width * 0.37 },
-    { url: "/assets/images/project8.jpg", position: [width * 0.28, -height * 1.82, -0.5], desiredWidth: width * 0.4 },
+    { url: "/assets/images/bild3.png", position: [-width * 0.32, -height * 0.1, 0.8], desiredWidth: width * 0.32 },
+    { url: "/assets/images/obst2.png", position: [width * 0.38, -height * 0.25, -0.2], desiredWidth: width * 0.36 },
+    { url: "/assets/images/bild1.png", position: [-width * 0.18, -height * 0.48, 1.2], desiredWidth: width * 0.4 },
+    { url: "/assets/images/obst4.png", position: [width * 0.42, -height * 0.72, -1.1], desiredWidth: width * 0.3 },
+    { url: "/assets/images/obst1.png", position: [-width * 0.4, -height * 0.95, 0.5], desiredWidth: width * 0.34 },
+    { url: "/assets/images/bild4.png", position: [width * 0.22, -height * 1.22, -0.8], desiredWidth: width * 0.38 },
+    { url: "/assets/images/obst3.png", position: [-width * 0.35, -height * 1.52, 0.3], desiredWidth: width * 0.37 },
+    { url: "/assets/images/bild2.png", position: [width * 0.28, -height * 1.82, -0.5], desiredWidth: width * 0.4 },
   ];
 
   const handleImageClick = (index) => {

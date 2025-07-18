@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://DEIN-GITHUB-USERNAME.github.io/portfolio",
+  "homepage": "https://armandabbas.github.io/portfolio-poster",
   "dependencies": {
     "@react-three/drei": "^9.88.13",
     "@react-three/fiber": "^8.15.11",
@@ -42,3 +42,4 @@
     "gh-pages": "^6.3.0"
   }
 }
+
